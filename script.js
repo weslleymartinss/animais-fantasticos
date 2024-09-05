@@ -81,6 +81,9 @@ function activeScrollAnimation() {
 }
 activeScrollAnimation()
 
+function novaFuncao () {
+    asdasd
+}
 
 
 
