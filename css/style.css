@@ -248,15 +248,15 @@ body {
   }
 }
 
-.js-accordion dd {
+[data-anima="accordion"] dd {
   display: none;
 }
 
-.js-accordion dt {
+[data-anima="accordion"] dt {
   cursor: pointer;
 }
 
-.js-accordion dt, dd.ativo {
+[data-anima="accordion"] dt, dd.ativo {
   display: block;
 }
 
